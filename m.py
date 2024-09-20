@@ -8,9 +8,9 @@ import os
 from keep_alive import keep_alive
 keep_alive()
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('7219302227:AAHUz5hwIsJefweWl8nINUAyBQjdn0n55wI')
+bot = telebot.TeleBot('8037376972:AAGUecNOKBIrT5TJTcEO0h4D44oREnuUZP8')
 # Join :- https://t.me/FREEddosJoinnow # Admin user IDs
-admin_id = ["5976309679"]
+admin_id = ["6220351280"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
